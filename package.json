@@ -1,0 +1,16 @@
+{
+  "name": "echo-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jupittar",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "fluent-ffmpeg": "^2.1.0",
+    "request": "^2.72.0"
+  }
+}
